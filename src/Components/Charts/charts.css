@@ -1,0 +1,33 @@
+.chartContainer {
+  background: rgb(13,8,85);
+  background: linear-gradient(20deg, rgb(102, 98, 160) 0%, rgba(75,75,137,1) 51%, rgb(98, 131, 173) 100%);
+  margin: 20px 30px 50px 20px;
+  border-radius: 8px;
+}
+
+.customTooltip {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+  font-size: 1.1rem;
+  line-height: 1.6rem;
+}
+
+.labelDif {
+  color: #2bc9e6;
+}
+
+.labelFun {
+  color: #F9418C;
+}
+
+.recharts-wrapper {
+  box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.2);
+   border-radius: 8px;
+} 
+.recharts-wrapper .recharts-cartesian-grid-vertical {
+  stroke-opacity: 0;
+}
+
+.recharts-wrapper .recharts-cartesian-grid-vertical line:last-child {
+  stroke-opacity: 5;
+}

@@ -1,0 +1,3362 @@
+[
+ {
+   "StudentName": "Evelyn",
+   "Project": "SCRUM",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D1-1",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D2-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D2-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D2-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D2-4",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D2-5",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D3-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D3-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D3-4",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D3-5",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 5,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D4-1",
+   "Difficulty": 4,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D1-1",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D1-2",
+   "Difficulty": 2,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D2-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D2-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D2-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D3-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D3-2",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D3-3",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D4-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D4-3",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D1-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D1-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D1-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D1-4",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D2-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D2-2",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D2-3",
+   "Difficulty": 3,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D3-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D3-2",
+   "Difficulty": 4,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D3-3",
+   "Difficulty": 3,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D3-4",
+   "Difficulty": 4,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D4-1",
+   "Difficulty": 5,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D4-2",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 2,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D2-1",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D2-2",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D2-3",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D2-4",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D3-1",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D3-2",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D3-3",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D3-4",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D3-5",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 1,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W5D4-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W6D1-1",
+   "Difficulty": 5,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W6D2-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Evelyn",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 5,
+   "Fun": 5
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "SCRUM",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D1-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D2-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D2-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D2-3",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D2-4",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D2-5",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D3-1",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D3-2",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D3-4",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D3-5",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D4-1",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D1-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D1-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D2-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D2-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D2-3",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D3-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D3-2",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D3-3",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D4-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D4-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D4-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D1-1",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D1-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D1-3",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D1-4",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D2-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D2-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D2-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D3-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D3-2",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D3-3",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D3-4",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D4-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D4-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D2-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D2-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D2-3",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D2-4",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D3-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D3-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D3-3",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D3-4",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D3-5",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W5D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W6D1-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W6D2-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Aranka",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "SCRUM",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D1-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D2-1",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D2-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D2-3",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D2-4",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D2-5",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D3-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D3-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D3-4",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D3-5",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D1-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D1-2",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D2-1",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D2-2",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D2-3",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D3-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D3-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D3-3",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D4-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D4-2",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D4-3",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D1-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D1-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D1-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D1-4",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D2-1",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D2-2",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D2-3",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D3-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D3-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D3-3",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D3-4",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D4-2",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D2-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D2-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D2-3",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D2-4",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D3-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D3-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D3-3",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D3-4",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D3-5",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W5D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W6D1-1",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W6D2-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Floris",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "SCRUM",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D1-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D2-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D2-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D2-3",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D2-4",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D2-5",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D3-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D3-2",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D3-4",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D3-5",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D4-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D1-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D1-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D2-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D2-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D2-3",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D3-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D3-2",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D3-3",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D4-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D4-2",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D4-3",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D1-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D1-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D1-3",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D1-4",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D2-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D2-2",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D2-3",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D3-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D3-2",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D3-3",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D3-4",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D4-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D4-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D2-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D2-2",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D2-3",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D2-4",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D3-1",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D3-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D3-3",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D3-4",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D3-5",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W5D4-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W6D1-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W6D2-1",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Hector",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "SCRUM",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D1-1",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D2-1",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D2-2",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D2-3",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D2-4",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D2-5",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D3-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D3-2",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D3-4",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D3-5",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D4-1",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D1-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D1-2",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D2-1",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D2-2",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D2-3",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D3-1",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D3-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D3-3",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D4-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D4-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D4-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D1-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D1-2",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D1-3",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D1-4",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D2-1",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D2-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D2-3",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D3-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D3-2",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D3-3",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D3-4",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D4-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D4-2",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D2-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D2-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D2-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D2-4",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D3-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D3-2",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D3-3",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D3-4",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D3-5",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W5D4-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W6D1-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W6D2-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Martina",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "SCRUM",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D1-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D2-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D2-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D2-3",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D2-4",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D2-5",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D3-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D3-2",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D3-4",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D3-5",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D4-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D1-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D1-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D2-1",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D2-2",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D2-3",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D3-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D3-2",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D3-3",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D4-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D4-3",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D1-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D1-2",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D1-3",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D1-4",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D2-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D2-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D2-3",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D3-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D3-2",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D3-3",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D3-4",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D4-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D4-2",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D2-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D2-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D2-3",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D2-4",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D3-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D3-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D3-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D3-4",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D3-5",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W5D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W6D1-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W6D2-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Maurits",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "SCRUM",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D1-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D2-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D2-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D2-3",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D2-4",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D2-5",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D3-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D3-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D3-4",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D3-5",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D4-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D1-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D1-2",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D2-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D2-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D2-3",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D3-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D3-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D3-3",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D4-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D4-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D4-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D1-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D1-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D1-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D1-4",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D2-1",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D2-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D2-3",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D3-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D3-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D3-3",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D3-4",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D4-1",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D4-2",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D2-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D2-2",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D2-3",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D2-4",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D3-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D3-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D3-3",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D3-4",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D3-5",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W5D4-1",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W6D1-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W6D2-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Rahima",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "SCRUM",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D1-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D2-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D2-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D2-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D2-4",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D2-5",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D3-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D3-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D3-4",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D3-5",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D4-1",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D1-1",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D1-2",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D2-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D2-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D2-3",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D3-1",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D3-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D3-3",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D4-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D4-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D4-3",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D1-1",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D1-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D1-3",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D1-4",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D2-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D2-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D2-3",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D3-1",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D3-2",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D3-3",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D3-4",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D4-1",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D4-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D2-1",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D2-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D2-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D2-4",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D3-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D3-2",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D3-3",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D3-4",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D3-5",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W5D4-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W6D1-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W6D2-1",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Sandra",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "SCRUM",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D1-1",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D2-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D2-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D2-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D2-4",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D2-5",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D3-1",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D3-2",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D3-4",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D3-5",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D4-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D1-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D1-2",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D2-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D2-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D2-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D3-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D3-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D3-3",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D4-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D4-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D4-3",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D1-1",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D1-2",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D1-3",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D1-4",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D2-1",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D2-2",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D2-3",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D3-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D3-2",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D3-3",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D3-4",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D4-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D4-2",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D2-1",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D2-2",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D2-3",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D2-4",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D3-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D3-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D3-3",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D3-4",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D3-5",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W5D4-1",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W6D1-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W6D2-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Wietske",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "SCRUM",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D1-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D2-1",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D2-2",
+   "Difficulty": 1,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D2-3",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D2-4",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D2-5",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D3-1",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D3-2",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D3-4",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D3-5",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D3 - Project - Guess-the-number",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D4-1",
+   "Difficulty": 4,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D4 - Project - Kleurentoggle",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W1D5 - Project - Galgje",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D1-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D1-2",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D2-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D2-2",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D2-3",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D3-1",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D3-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D3-3",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D4-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D4-2",
+   "Difficulty": 4,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D4-3",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W2D5 - Project - Filmzoeker",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D1-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D1-2",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D1-3",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D1-4",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D2-1",
+   "Difficulty": 1,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D2-2",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D2-3",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D3-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D3-2",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D3-3",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D3-4",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D4-1",
+   "Difficulty": 2,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D4-2",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W3D5 - Project - Todo-List",
+   "Difficulty": 3,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D2-1",
+   "Difficulty": 2,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D2-2",
+   "Difficulty": 3,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D2-3",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D2-4",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D3-1",
+   "Difficulty": 3,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D3-2",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D3-3",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D3-4",
+   "Difficulty": 3,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D3-5",
+   "Difficulty": 2,
+   "Fun": 3
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W4D3 - Project - Next-Level CSS",
+   "Difficulty": 4,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W5D4-1",
+   "Difficulty": 2,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W5D5 - Project - Lil_Playlist",
+   "Difficulty": 1,
+   "Fun": 2
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W6D1-1",
+   "Difficulty": 4,
+   "Fun": 4
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W6D2-1",
+   "Difficulty": 1,
+   "Fun": 1
+ },
+ {
+   "StudentName": "Storm",
+   "Project": "W6D2 - Project - Eindopdracht",
+   "Difficulty": 3,
+   "Fun": 3
+ }
+]

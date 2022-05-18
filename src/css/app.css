@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+
+/* General */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #4B4B89;
+  font-family: 'Barlow', sans-serif;
+  height: 100vh;
+}
+
+.container {
+  font-size: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Home & Students Components */
+
+.homeContainer, .studentContainer {
+  margin-left: 40px;
+}
+
+.homeHeader, .studentPage {
+  color: #fff;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+.homeTitle, .studentTitle {
+  margin-top: 30px;
+  letter-spacing: 0.3rem;
+}
+
+.homeInfo, .extraInfo, .studentInfo {
+  margin-top: 10px;
+}
+
+.toggleBtn {
+  margin: 20px auto auto 30px;
+  padding: 8px;
+  border-radius: 3px;
+  border: none;
+  font-family: 'Barlow', sans-serif;
+}
+
+.toggleBtn:hover {
+  cursor: pointer;
+}
+
+/* HomeOptions Component */
+
+.optionsContainer {
+  margin-top: 30px;
+}
+
+.selectHome {
+  margin-left: 40px;
+  padding: 8px;
+  border-radius: 3px;
+  border: none;
+  font-family: 'Barlow', sans-serif;
+}
+
+.changeBtn {
+  margin-left: 10px;
+  padding: 8px;
+  border-radius: 3px;
+  border: none;
+  font-family: 'Barlow', sans-serif;
+}
+
+.selectHome:hover, .changeBtn:hover {
+  cursor: pointer;
+}
+
+.tableInfo {
+  color: #fff;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.tableTitle {
+  letter-spacing: 0.3rem;
+}
+
+/* Circles */
+
+.circleOne, .circleThree {
+  background-color:rgba(43, 201, 230, 0.9);
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  right: 20px;
+  top: -37px;
+  z-index: -1;
+  box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+.circleTwo, .circleFour {
+  background-color: rgba(249, 65, 140, 0.9);
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 300px;
+  top: -37px;
+  z-index: -1;
+  box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+.circleThree {
+  background-color: rgba(223, 120, 161, 0.9);
+}
+
+.circleFour {
+  background-color: rgba(145, 35, 79, 0.9);
+}
