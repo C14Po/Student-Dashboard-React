@@ -46,7 +46,6 @@ const Navbar = () => {
         <h1 className='title'><span className='letterS'>S</span>tudent <br/> <span className='letterD'>D</span>ashboard</h1>
       </header>
       <nav>
-        <img src={require('../img/logo.png')} alt='logo' />
         <Link to='/' className='link'><h2 className='homeLink'>Home</h2></Link>  
           <select onChange={handleChange} defaultValue={'default'} className='selectStudent'>
             <option value='default'>All Students</option>

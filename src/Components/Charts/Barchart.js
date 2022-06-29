@@ -21,7 +21,7 @@ const Barchart = (props) => {
       <BarChart width={2000} height={300} data={data} margin={{top: 60, right: 40, left: 10, bottom: 30}}>
         <CartesianGrid strokeDasharray="1 1" stroke="white" />
         <XAxis dataKey="project" stroke="white" tick={{fontSize: "0.8rem"}} padding={{left: 5, right: 5}} />
-        <YAxis type="number" domain={[0, 'dataMax']} stroke="white" tick={{fontSize: "0.9rem"}} />
+        <YAxis type="number" domain={[1, 'dataMax']} stroke="white" tick={{fontSize: "0.9rem"}} />
         <Brush dataKey="project" height={20} stroke="#8884d8" />
         <Tooltip/>
         <Legend height={30} wrapperStyle={{paddingTop: "20px", fontSize: "1rem"}} />

@@ -7,14 +7,6 @@ h6 {
   padding-top: 6px;
 }
 
-img {
-  width: 60px;
-  height: 60px;
-  position: absolute;
-  left: 19px;
-  top: 205px;
-}
-
 .navContainer {
   box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.2);
   height: 100%;
@@ -51,6 +43,10 @@ img {
   color: #fff;
   margin: 55px auto 25px 70px;
   font-size: 1.8rem;
+}
+
+.homeLink:hover {
+  color: #2bc9e6;
 }
 
 .link {
